@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031166027479",
+    "project_id": "flutter-todo-539c8",
+    "storage_bucket": "flutter-todo-539c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031166027479:android:8d32ef9976b7d0eb2df292",
+        "android_client_info": {
+          "package_name": "xyz.zebracrypto.todo.my_todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjivIkGaYM92XQiNhsSJI7C6J7jdbq6Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
